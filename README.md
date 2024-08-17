@@ -30,6 +30,7 @@ Use the instructions from "https://vitejs.dev/guide/" to set up your react envir
 ### Running the Project
 1. Run `npm run dev` or `yarn dev` to start the development server.
 2. Open your browser and navigate to `http://localhost:5173` to view the application.
+You can configure it to run on port 3000 by changing the server port number to 3000.
 3. Ensure you have a `live server` extension
 
 
