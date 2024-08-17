@@ -1,0 +1,16 @@
+#root {
+  max-width:auto;
+  margin: 0 auto;
+  text-align: center;
+}
+#body {
+  font-family: 'Times New Roman', Times, 'serif';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: lightgray;
+  margin: 0 auto;
+  padding: 0;
+}
+
