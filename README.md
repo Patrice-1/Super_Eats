@@ -43,3 +43,7 @@ You can configure it to run on port 3000 by changing the server port number to 3
 
 The Project uses an MIT license
 
+Here is a link to a blog on creating this web to walk you through the process.
+https://docs.google.com/document/d/1gKFltLFzN8oyJJveuxN1OOjjVU5qL40Sv02GMm4fe3o/edit?usp=sharing
+
+
